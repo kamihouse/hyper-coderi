@@ -1,7 +1,7 @@
 // Coderi - Syntax scheme
 const foregroundColor   = '#abb2bf';
 const backgroundColor   = '#282c34';
-const borderColor       = '#394251';
+const borderColor       = '#303845';
 const selectionColor    = 'rgba(189, 195, 199, 0.3)';
 const cursorColor       = '#95a5a6';
 
