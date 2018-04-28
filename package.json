@@ -1,0 +1,23 @@
+{
+  "name": "hyper-coderi",
+  "version": "1.0.0",
+  "description": "Coderi Theme for Hyper",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "kamihouse/hyper-coderi",
+  "author": {
+    "name": "Thiago Pereira Rosa",
+    "email": "thiagor@engineer.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "hyperterm",
+    "hyperterm-theme",
+    "coderi",
+    "hyper-coderi"
+  ]
+}
